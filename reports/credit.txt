@@ -1,0 +1,8 @@
+TXN001, 190.0, credit
+TXN002, 150.0, credit
+TXN004, 1000.0, credit
+TXN006, 1120.0, credit
+TXN007, 120.0, credit
+TXN010, 120.0, credit
+TXN012, 120.0, credit
+TXN015, 10.0, credit
